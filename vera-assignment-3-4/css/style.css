@@ -1,0 +1,42 @@
+div { text-align: left;
+
+}
+body {
+  background-color: palevioletred;
+  padding-left: 16px; 
+  
+}
+#name {
+  color: snow;
+  font-size: 80px;
+    font-family: arial;
+}
+    
+#title {
+      color: midnightblue;
+      font-size: 60px;
+  font-family: arial;
+  }
+     
+   
+#link{
+  color: pink;
+  font-size: 35px
+    font-family: arial;
+}
+#body{
+  font-size: 15px;
+  font-family: arial;
+  
+}
+#body2{
+  font-size: 22px;
+  font-family: serif;
+   display:inline-black;
+  border:2px solid red;
+  padding: 32p;
+  margin: 16px;
+  
+  line-height:100%;
+  text-align: center;
+}
